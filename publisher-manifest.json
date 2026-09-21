@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2f1742ec1f91505a17d36bcc",
+  "owner": "pgsufnfvt",
+  "repo": "page-9e1440d755db4a6c2325e23a",
+  "title": "極速亞洲(SpaceZ)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9e1440d755db4a6c2325e23a",
+      "a": "極速亞洲(SpaceZ)",
+      "b": "机场官网线路发布页",
+      "entity": "極速亞洲(SpaceZ)",
+      "brand": "極速亞洲(SpaceZ)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5b4a90cc08d8c6b44183a76c50c824fb94d1876b142342328715657ff13efebd",
+      "content": {
+        "primary_entity": "極速亞洲(SpaceZ)",
+        "keyword1": "極速亞洲(SpaceZ)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 和 ¥85，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，适合按需求选择。",
+          "AI_HERO_SUBTITLE": "亚洲线路加速 按需选套餐",
+          "AI_HERO_INTRO": "極速亞洲(SpaceZ)面向需要稳定跨境连接的用户，提供基础版、旗舰版和团队版三档订阅，覆盖不同流量和在线设备需求。旗舰版与团队版使用 IPLC 专线优化，适合游戏与高带宽场景。",
+          "AI_VISUAL_TITLE": "極速亞洲 线路选择一目了然",
+          "AI_HIGHLIGHT_1": "三档套餐可选 流量设备灵活",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持二十台设备在线",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "从套餐档位出发，梳理流量、设备与线路差异，方便按实际用量匹配。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB。",
+          "AI_FEATURE_TITLE_2": "设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。",
+          "AI_FEATURE_TITLE_3": "周期优惠",
+          "AI_FEATURE_TEXT_3": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端建议",
+          "AI_CLIENTS_INTRO": "不同系统可选用各自常见客户端，按设备类型选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合多设备与游戏加速，团队版面向高流量多设备场景。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按需选择套餐后，确认设备客户端，再依照文档配置订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量与设备数量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TEXT_2": "确认所用设备系统是否在支持范围内，并了解同时在线设备限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "极速亚洲基础版适合什么场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合一个人日常浏览和基础流媒体使用。年付仅需 ¥150/年。",
+          "AI_FAQ_QUESTION_2": "旗舰版和基础版的主要区别是什么？",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB 流量、支持 5 台设备，使用全节点原生流媒体解锁和 IPLC 专线游戏加速优化，并有 7x24 优先工单支持，适合游戏和多设备用户。",
+          "AI_FAQ_QUESTION_3": "团队版能支持多少台设备？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，使用 VIP 专属高带宽节点，可支持企业定制路由，并配有专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850。年付相当于省下约两个月费用。",
+          "AI_FAQ_QUESTION_5": "如何在设备上配置订阅？",
+          "AI_FAQ_ANSWER_5": "先按设备系统选择对应客户端，然后参照该客户端的订阅导入说明，填写订阅信息即可完成配置。",
+          "AI_CLOSING_TITLE": "选对套餐 连接更顺畅",
+          "AI_CLOSING_TEXT": "根据流量与设备数量选择合适档位，按文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "wxwfy.cn",
+    "host": "wxwfy.cn"
+  },
+  "file_hashes": {
+    "index.html": "189292f5cc724ff1817d18b002afdd42940915be0d93ed8f2df6cf169b9106a2",
+    "sitemap.xml": "b04ac5651d4d36164ddb2c970417e204713de1f75b1680abf6c90cf3f17a964d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ba39e15d6ca55b44ddf15ac1ba12bf4acbbc697df28459c9acfe1e1e2ce3583f",
+    "robots.txt": "22a78fe4fc496604a90764797f40569c8693f1e943ffad4eed611b0dad25d8e5",
+    "6693fe8b8cf22eddfffa37e49cc93c20.txt": "7e4251403203865f42ad5215fb60eedeae55bac338375cfecc324adc7f4a3deb"
+  },
+  "revision": "48a16f5b0786b444106b4f62f9471111f56091d2008340570336ac61db28c82e"
+}
